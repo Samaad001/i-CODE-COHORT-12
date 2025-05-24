@@ -1,0 +1,13 @@
+i-CODE COHORT 12
+Ahmadu Bello University Zaria
+Day 1:
+Understanding Internet Computer Protocol
+Introduction and setting up Github account
+Setup for ICP Deployment
+Day 2:
+Motoko Canister/Deployment
+Rust Canister/Deployment
+UI/UX Design
+Day 3:
+ICP Ninja Deployment
+Design Thinking
