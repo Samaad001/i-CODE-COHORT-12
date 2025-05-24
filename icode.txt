@@ -1,4 +1,4 @@
-i-CODE COHORT 12
+i-CODE COHORT 12 ABU ZARIA
 Ahmadu Bello University Zaria
 Day 1:
 Understanding Internet Computer Protocol
@@ -11,3 +11,8 @@ UI/UX Design
 Day 3:
 ICP Ninja Deployment
 Design Thinking
+Day 4:
+Self pace learning
+Day 5: 
+Installing of WSL, Motoko, ruster, Ubuntu
+Detail concept of Programming and Coding
